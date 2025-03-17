@@ -2,7 +2,7 @@ Math Quiz Game
 
 📌 Description
 
-This is a simple Math Quiz Game written in C++ that tests the user's arithmetic skills. Users can choose the number of questions, difficulty levels, and types of mathematical operations. The game provides feedback on correct and incorrect answers and calculates final results based on performance.
+This is a simple Math Quiz Game written in C++ functional/procedural programming that tests the user's arithmetic skills. Users can choose the number of questions, difficulty levels, and types of mathematical operations. The game provides feedback on correct and incorrect answers and calculates final results based on performance.
 
 This project is a console-based application and does not include any graphical UI or external frameworks. It relies solely on standard input/output (cin/cout) for user interaction. The only system-dependent feature is the system("color") command, which changes the console color based on correct or incorrect answers (Windows-specific).
 
